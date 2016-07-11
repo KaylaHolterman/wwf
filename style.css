@@ -34,9 +34,24 @@ li {
 
 h1 {
 	text-align: left;
-	padding-right: 20px;
+	padding: 20px;
+	margin: 10px 50px;
 }
 
 .main-content {
 	position: fixed;
 }
+
+.content { 
+	width: 80%
+	margin: 0 auto;
+
+ }
+ .col1 {
+ 	float: left;
+ 	width: 50%;
+ }
+
+ .col2 {
+ 	float: 
+ }
