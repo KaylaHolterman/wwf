@@ -9,7 +9,7 @@ body {
 }
 
 #wwf {
-	width: 20%;
+	width: 19%;
 	float: right;
 	border: solid;
 	margin: 20px 80px;
@@ -39,6 +39,7 @@ h1 {
 }
 
 .main-content {
+<<<<<<< HEAD
 	position: fixed;
 }
 
@@ -55,3 +56,8 @@ h1 {
  .col2 {
  	float: 
  }
+=======
+	width: 80%;
+	margin: 0 auto;
+}
+>>>>>>> 223ef1658dcf627ee5ae7630f95a607a887cd872
