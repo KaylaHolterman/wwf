@@ -43,20 +43,20 @@ h1 {
 	position: fixed;
 }
 
-.content { 
-	width: 80%
-	margin: 0 auto;
+.content1 { 
+	width: 80%;
+	text-align: justify;
+	
 
  }
  .col1 {
  	float: left;
  	width: 30%;
- 	text-align: justify;
  	padding: 15px;
  }
 
  .col2 {
- 	text-align: justify;
+ 	
  	width: 30%;
  	float: left;
  	padding: 15px;
