@@ -39,7 +39,6 @@ h1 {
 }
 
 .main-content {
-<<<<<<< HEAD
 	position: fixed;
 }
 
@@ -50,14 +49,14 @@ h1 {
  }
  .col1 {
  	float: left;
- 	width: 50%;
+ 	width: 30%;
+ 	text-align: justify;
+ 	padding: 10px;
  }
 
  .col2 {
- 	float: 
+ 	text-align: justify;
+ 	width: 30%;
+ 	float: left;
  }
-=======
-	width: 80%;
-	margin: 0 auto;
-}
->>>>>>> 223ef1658dcf627ee5ae7630f95a607a887cd872
+
