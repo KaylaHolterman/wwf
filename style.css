@@ -1,3 +1,7 @@
+body {
+	font-family: helvetica;
+}
+
 .logo {
 	width: 75px;
 	padding-left: 570px;
@@ -9,4 +13,21 @@
 	float: right;
 	border: solid;
 	margin: 20px 80px;
+}
+ul {
+	list-style-type: none;
+	text-decoration: none;
+	margin: 10px 470px;
+	padding: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding-right: 6px;
+    font-size: 10pt;
+}
+
+li {
+	display: inline-block;
 }
