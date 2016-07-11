@@ -31,3 +31,7 @@ a {
 li {
 	display: inline-block;
 }
+
+.main-content {
+	position: fixed;
+}
