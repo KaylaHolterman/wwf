@@ -4,8 +4,8 @@ body {
 
 .logo {
 	width: 75px;
-	padding-left: 570px;
-	margin-top: 20px;
+	padding-left: 590px;
+	margin-top: 20px; 
 }
 
 #wwf {
@@ -17,8 +17,8 @@ body {
 ul {
 	list-style-type: none;
 	text-decoration: none;
-	margin: 10px 470px;
-	padding: 30px;
+	margin: 10px 500px;
+	padding: 20px;
 }
 
 a {
@@ -30,6 +30,11 @@ a {
 
 li {
 	display: inline-block;
+}
+
+h1 {
+	text-align: left;
+	padding-right: 20px;
 }
 
 .main-content {
