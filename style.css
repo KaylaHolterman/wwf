@@ -4,19 +4,13 @@ body {
 
 .logo {
 	width: 75px;
-	padding-left: 590px;
 	margin-top: 20px; 
 }
 
-#wwf {
-	width: 19%;
-	border: solid;
-	margin: 20px 80px;
-}
+
 ul {
 	list-style-type: none;
 	text-decoration: none;
-	margin: 10px 500px;
 	padding: 20px;
 }
 
@@ -34,14 +28,20 @@ li {
 h1 {
 	text-align: left;
 	padding: 20px;
-	margin: 10px 50px;
+	margin: 10px 0px;
+	letter-spacing: 5px;
 }
 
 .main-content {
-	margin: 300px 600px;
+	text-align: center;
 }
 
-.content { 
+#wwf {
+	width: 20%;
+	border: solid;
+	margin: 20px 80px;
+}
+.content1 { 
 	width: 80%
 	margin: 0 auto;
 
@@ -50,12 +50,22 @@ h1 {
  	float: left;
  	width: 30%;
  	text-align: justify;
- 	padding: 10px;
+ 	padding: 15px;
  }
 
  .col2 {
  	text-align: justify;
  	width: 30%;
  	float: left;
+ 	padding: 15px;
  }
+.pic {
+	float: right;
+	margin-top: 20px;
+	padding: 15px;
 
+}
+
+header {
+	text-align: center;
+}
