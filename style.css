@@ -36,6 +36,13 @@ h1 {
 	text-align: center;
 }
 
+
+.content1 { 
+	width: 80%;
+	text-align: justify;
+}
+	
+
 #wwf {
 	width: 15%;
 	border: solid;
@@ -46,19 +53,21 @@ h1 {
 	margin: 0 auto;
 	text-align: center;
 
+
  }
  .col1 {
  	float: left;
  	width: 30%;
- 	text-align: justify;
  	padding: 15px;
+ 	text-align: justify;
  }
 
  .col2 {
- 	text-align: justify;
+ 	
  	width: 30%;
  	float: left;
  	padding: 15px;
+ 	text-align: justify;
  }
 .pic {
 	float: right;
