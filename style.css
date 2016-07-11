@@ -10,7 +10,6 @@ body {
 
 #wwf {
 	width: 19%;
-	float: right;
 	border: solid;
 	margin: 20px 80px;
 }
@@ -39,7 +38,7 @@ h1 {
 }
 
 .main-content {
-	position: fixed;
+	margin: 300px 600px;
 }
 
 .content { 
