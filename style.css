@@ -35,7 +35,8 @@ li {
 h1 {
 	text-align: left;
 	padding: 20px;
-	margin: 10px 50px;
+	margin: 10px 0px;
+	letter-spacing: 5px;
 }
 
 .main-content {
@@ -51,12 +52,18 @@ h1 {
  	float: left;
  	width: 30%;
  	text-align: justify;
- 	padding: 10px;
+ 	padding: 15px;
  }
 
  .col2 {
  	text-align: justify;
  	width: 30%;
  	float: left;
+ 	padding: 15px;
  }
+.pic {
+	float: right;
+	margin-top: 20px;
+	padding: 15px;
 
+}
