@@ -1,5 +1,7 @@
 body {
 	font-family: helvetica;
+	background-image: url(wl.jpg);
+	color: white;
 }
 
 .logo {
