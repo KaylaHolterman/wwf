@@ -38,20 +38,13 @@ h1 {
 	text-align: center;
 }
 
-
-.content1 { 
-	width: 80%;
-	text-align: justify;
-}
 	
-
 #wwf {
 	width: 15%;
 	border: solid;
 	margin: 20px 30px;
 }
 .content1 { 
-	width: 80%
 	margin: 0 auto;
 	text-align: center;
 
@@ -73,15 +66,10 @@ h1 {
  	border: solid white;
  }
 .pic {
-	float: right;
-	margin-top: 0px;
-	padding: 15px;
+	width: 300px;
+	border: solid;
 }
 
 header {
 	text-align: center;
-}
-
-.pic {
-	border: solid;
 }
