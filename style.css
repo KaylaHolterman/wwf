@@ -61,16 +61,17 @@ h1 {
  .col1 {
  	float: left;
  	width: 30%;
- 	padding: 15px;
+ 	padding: 10px;
  	text-align: justify;
+ 	border: solid white;
  }
 
  .col2 {
- 	
  	width: 30%;
  	float: left;
- 	padding: 15px;
+ 	padding: 10px;
  	text-align: justify;
+ 	border: solid white;
  }
 .pic {
 	float: right;
