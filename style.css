@@ -62,12 +62,14 @@ h1 {
  	width: 30%;
  	float: left;
  	padding: 10px;
+ 	margin-left: 10px;
  	text-align: justify;
  	border: solid white;
  }
 .pic {
-	width: 300px;
+	width: 400px;
 	border: solid;
+	margin-left: 10px;
 }
 
 header {
