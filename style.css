@@ -81,3 +81,9 @@ h1 {
 header {
 	text-align: center;
 }
+
+.pic {
+	border: solid;
+	margin-top: 40px;
+
+}
