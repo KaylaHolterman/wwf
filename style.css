@@ -1,8 +1,9 @@
 body {
 	font-family: helvetica;
-	background-image: url(wl2.jpg);
 	color: white;
+	background-image: url(wl2.jpg);
 }
+
 
 .logo {
 	width: 75px;
@@ -17,7 +18,7 @@ ul {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding-right: 6px;
     font-size: 10pt;
